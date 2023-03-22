@@ -1,0 +1,3 @@
+Resolução:
+Para isso é necessário o cadastro de todas as notas do aluno, junto com o número de faltas para fazer a 
+análise e saber se o aluno está ou não reprovado por faltas, apresentando o resultado em um dashboard
