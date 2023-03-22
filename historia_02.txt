@@ -1,7 +1,4 @@
-eu como cordenador quero poder visualizar
-a lista completa das notas de todas as turmas
-em todos os bimestres em gráficos para poder
-ter uma visualização melhor, mais ampla e rápida
+Possivel solução:
 
 
 Criar uma tabela com as disciplinas, interligar com uma tabela das turma,
