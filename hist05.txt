@@ -1,3 +1,3 @@
 Para saber a disponibilidade, devemos desenvolver um sistema que monitore
 o fluxo de carros que entram e saem nos turnos de funcionamento.
-Para enviar uma notificação toda vez que uma vaga for disponibilizada.
+PARA enviar uma notificação toda vez que uma vaga for disponibilizada.
