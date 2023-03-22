@@ -1,0 +1,5 @@
+Possivel solção
+
+Faria um metodo usando um banco de dados, alimentaria o mesmo
+com cada aluno que deiste ou se transferem, e retornaria o valor total 
+em um metodo chamado: total_trasferidos, e total_desistentes.
