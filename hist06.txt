@@ -1,0 +1,3 @@
+Uma possibilidade é registrar a entrada e saída dos automóveis
+nos turnos de funcionamento do estacionamento
+para fazer uma contabilidade no final do espediente do fluxo de carros. 
