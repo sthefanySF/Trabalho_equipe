@@ -1,0 +1,10 @@
+eu como cordenador quero poder visualizar
+a lista completa das notas de todas as turmas
+em todos os bimestres em gráficos para poder
+ter uma visualização melhor, mais ampla e rápida
+
+
+Criar uma tabela com as disciplinas, interligar com uma tabela das turma,
+e cada turma ter alunos com seu id proprio.De modo a quando eu chamar 
+um metodo ele fazer uma tabela com cada informação e outro para criar 
+os graficos.
