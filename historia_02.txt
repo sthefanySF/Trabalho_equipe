@@ -1,0 +1,7 @@
+Possivel solução:
+
+
+Criar uma tabela com as disciplinas, interligar com uma tabela das turma,
+e cada turma ter alunos com seu id proprio.De modo a quando eu chamar 
+um metodo ele fazer uma tabela com cada informação e outro para criar 
+os graficos.
