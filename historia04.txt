@@ -1,0 +1,2 @@
+Resolução:
+É necessário um aplicativo com um banco de dados onde constam todas os lanches em estoques e o valor de cada um
